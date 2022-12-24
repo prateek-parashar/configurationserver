@@ -1,2 +1,2 @@
 # configurationserver
-Configuration server using Spring cloud for microservice configuration management
+Configuration server using Spring cloud for microservice configuration management.
